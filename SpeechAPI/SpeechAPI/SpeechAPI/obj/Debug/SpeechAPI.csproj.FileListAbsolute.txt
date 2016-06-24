@@ -1,0 +1,8 @@
+C:\Users\TyRozak\Documents\Minuteman\SpeechAPI\SpeechAPI\SpeechAPI\bin\Debug\SpeechAPI.dll
+C:\Users\TyRozak\Documents\Minuteman\SpeechAPI\SpeechAPI\SpeechAPI\bin\Debug\SpeechAPI.pdb
+C:\Users\TyRozak\Documents\Minuteman\SpeechAPI\SpeechAPI\SpeechAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TyRozak\Documents\Minuteman\SpeechAPI\SpeechAPI\SpeechAPI\bin\Debug\SpeechClient.dll
+C:\Users\TyRozak\Documents\Minuteman\SpeechAPI\SpeechAPI\SpeechAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TyRozak\Documents\Minuteman\SpeechAPI\SpeechAPI\SpeechAPI\obj\Debug\SpeechAPI.dll
+C:\Users\TyRozak\Documents\Minuteman\SpeechAPI\SpeechAPI\SpeechAPI\obj\Debug\SpeechAPI.pdb
+C:\Users\TyRozak\Documents\Minuteman\SpeechAPI\SpeechAPI\SpeechAPI\obj\Debug\SpeechAPI.csprojResolveAssemblyReference.cache
